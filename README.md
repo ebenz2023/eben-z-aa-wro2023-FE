@@ -4,6 +4,8 @@ SENIOR
 
 TEAM: EBEN-Z-AA
 
+ROBOT: INDIE
+
 Integrants: 
 •	Aguilar, Amira
 •	Burke, Paulette
