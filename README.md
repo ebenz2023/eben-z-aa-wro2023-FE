@@ -91,13 +91,21 @@ In summary, our Spike algorithm controls a robot's actions based on sensor readi
 
 
 Daily Log Entry
+
 July 10, 2023: We began assembling and discussing within the team, what the robot's chassis would be.
+
 July 19, 2023: We continued assembling the robot and positioning it.
+
 July 23, 2023: We created the initial programming codes for the vehicle's functionality.
+
 July 26, 2023: Testing Day, and we continued updating the programming, which posed some challenges.
+
 July 31, 2023: The programming with the distance sensors is improving and showing good traction.
+
 August 2, 2023: We added the color sensor. We attempted to combine all three sensors - the proximity sensor and the color sensor.
+
 August 9, 2023: We successfully achieved the vehicle's function and completed the project.
+
 
 •Challenge and Solution: Our main challenge was integrating the proximity sensor with the color sensor. 
 
