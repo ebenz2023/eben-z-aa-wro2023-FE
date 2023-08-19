@@ -9,6 +9,7 @@ Integrants:
 •	Burke, Paulette
 •	Martínez-Aparicio, Álvaro 
 
+Tutor: professor. Chandler Joshua
 Affair: Report
 
 
